@@ -1,0 +1,23 @@
+<PhoneDetails>
+    <phone1>
+        <id>11</id>
+        <name>Samsung</name>
+        <uPrice>35000</uPrice>
+        <stock>50</stock>
+        <status>1</status>
+    </phone1>
+    <phone2>
+        <id>20</id>
+        <name>HTC</name>
+        <uPrice>65300</uPrice>
+        <stock>35</stock>
+        <status>0</status>
+    </phone2>
+    <phone3>
+        <id>23</id>
+        <name>Nokia</name>
+        <uPrice>25100</uPrice>
+        <stock>100</stock>
+        <status>1</status>
+    </phone3>
+</PhoneDetails>
