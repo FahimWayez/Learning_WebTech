@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <title>Profile Picture</title>
+</head>
+
+<body>
+    <fieldset>
+        <legend>Profile Picture</legend>
+        <form method="post" action="successful.html" name="profilePictureForm" onsubmit="return validateProfilePictureForm();">
+            <h3>Profile Picture</h3>
+            <div class="textBox">
+                <input type="text" id="userID" name="userID"><br>
+                <input type="file" class="profilePicture" id = "profilePicture" name = "profilePicture">
+            </div>
+            <hr>
+            
+            <div class="submitButton">
+                <input type="submit" name="submit" id="submit" value="submit">
+            </div>
+            <script src="../JS/script.js"></script>
+        </form>
+    </fieldset>
+</body>
+
+</html>
